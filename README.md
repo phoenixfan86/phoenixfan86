@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i'm+PhoenixFan;Front-end+Developer)](https://git.io/typing-svg)
 
-<!--
-**phoenixfan86/phoenixfan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 for freelance work? do reach <a href="mailto:phoenixfan86@gmail.com">email :)</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Front-end Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,mongodb,firebase,bootstrap,tailwind,materialui)](https://skillicons.dev)
+
+
+## My GitHub statistics
+[![phoenixfan86 profile views](https://u8views.com/api/v1/github/profiles/170736652/views/day-week-month-total-count.svg)](https://u8views.com/github/phoenixfan86)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?phoenixfan86=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Social Link
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rostislav-baziv)
+[![Discord](https://skillicons.dev/icons?i=discord)](phoenixfan86)
