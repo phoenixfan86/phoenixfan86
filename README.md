@@ -10,7 +10,7 @@
 ## My GitHub statistics
 [![phoenixfan86 profile views](https://u8views.com/api/v1/github/profiles/170736652/views/day-week-month-total-count.svg)](https://u8views.com/github/phoenixfan86)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?phoenixfan86=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixfan86)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Social Link
